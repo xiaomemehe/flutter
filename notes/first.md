@@ -19,7 +19,8 @@ Flutter 是 Google推出并开源的移动应用开发框架，主打跨平台�
 ## JIT和AOT
 目前，程序主要有两种运行方式：静态编译与动态解释。静态编译的程序在执行前全部被翻译为机器码，通常将这种类型称为AOT （Ahead of time）即 “提前编译”；而解释执行的则是一句一句边翻译边运行，通常将这种类型称为JIT（Just-in-time）即“即时编译”。
 
-![] (https://cdn.jsdelivr.net/gh/flutterchina/flutter-in-action/docs/imgs/1-1.png)
+![Flutter](https://cdn.jsdelivr.net/gh/flutterchina/flutter-in-action/docs/imgs/1-1.png "Flutter布局原理")
+
 ## Flutter Framework
 * 这是一个纯 Dart实现的 SDK，它实现了一套基础库，自底向上，我们来简单介绍一下：
 
